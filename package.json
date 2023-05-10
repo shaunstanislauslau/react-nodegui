@@ -19,7 +19,7 @@
   },
   "resolutions": {
     "react-devtools-core": "3.5.3",
-    "react-devtools": "3.5.3"
+    "react-devtools": "4.27.7"
   },
   "peerDependencies": {
     "@nodegui/nodegui": "*",
@@ -33,7 +33,7 @@
     "@types/scheduler": "^0.12.1",
     "prettier": "^1.18.2",
     "react": "^16.8.6",
-    "react-devtools": "3.5.3",
+    "react-devtools": "4.27.7",
     "tsc-watch": "^2.2.1",
     "typescript": "^3.5.2"
   }
